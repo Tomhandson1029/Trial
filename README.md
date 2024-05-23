@@ -1,9 +1,9 @@
 # Predictive Analysis of Various Diseases Risk Readmission :microscope: :hospital:
 
-![Python](https://img.shields.io/badge/Python-black.svg?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-grey.svg?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-blue.svg?style=flat&logo=flask)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green.svg?style=flat&logo=)
-![Data Science](https://img.shields.io/badge/Data%20Science-orange.svg?style=flat&logo=chart-line)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-voilit.svg?style=flat&logo=)
+![Data Science](https://img.shields.io/badge/Data%20Science-orange.svg?style=flat&logo=chart)
 
 This project is a comprehensive Flask application designed to predict the risk of various diseases, including heart disease, diabetes, breast cancer, liver disease, and kidney disease, using machine learning models. Powered by Python and Flask, the application provides a user-friendly web interface for easy interaction with the predictive models.
 
@@ -59,11 +59,9 @@ _The application should now be running on http://localhost:5000._
 
 ## 📐: How It Works
 
-- **Choose Disease Prediction:** Navigate to the disease prediction page you are interested in from the home page.
-
-- **Input Data:** Fill in the required information in the form and submit.
-
-- **View Prediction:** The application will display the predicted risk based on the input data.
+- **Data Analysis & Model Training:** Our models are trained using the Random Forest algorithm, selected for its high accuracy. The training process involves extensive data analysis, ensuring reliable predictions.
+- **Flask Application:** The web interface is built with Flask, providing a seamless experience for users to input their data and receive disease risk predictions.
+- **Machine Learning Models:** Models are saved as pickle files and integrated into the Flask application for real-time predictions.
 
 ## 📁: Project Structure
 
