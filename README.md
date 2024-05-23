@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-grey.svg?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-blue.svg?style=flat&logo=flask)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-voilit.svg?style=flat)
-![Data Science](https://img.shields.io/badge/Data%20Science-voilet.svg?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-gren.svg?style=flat)
+![Data Science](https://img.shields.io/badge/Data%20Science-darkorange.svg?style=flat)
 
 This project is a comprehensive Flask application designed to predict the risk of various diseases, including heart disease, diabetes, breast cancer, liver disease, and kidney disease, using machine learning models. Powered by Python and Flask, the application provides a user-friendly web interface for easy interaction with the predictive models.
 
