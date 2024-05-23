@@ -65,10 +65,10 @@ _The application should now be running on http://localhost:5000._
 
 ## 📁: Project Structure
 
-- ['main.py'](main.py): Flask application entry point.
-- ['Models/'](Models): Directory containing the trained models as pickle files.
-- ['templates/'](templates): HTML templates for the web interface.
-- ['static/'](static): CSS/JS and other static files for the web interface.
-- ['Analyzing Data.ipynb'](Analyzing Data.ipynb) & ['Model Training.ipynb'](Model Training.ipynb): Jupyter notebooks for data analysis and model training.
-- ['Heart Disease Dataset EDA.html'](Heart Disease Dataset EDA.html): Exploratory data analysis report for heart disease dataset
-- ['Dataset/'](Dataset): Contains the datasets used for training
+- [main.py](main.py): Flask application entry point.
+- [Models](Models): Directory containing the trained models as pickle files.
+- [templates](templates): HTML templates for the web interface.
+- [static](static): CSS/JS and other static files for the web interface.
+- [Analyzing Data](Analyzing_Data.ipynb) & [Model Training](Model_Training.ipynb): Jupyter notebooks for data analysis and model training.
+- [Heart Disease Dataset EDA](Heart_Disease_Dataset_EDA.html): Exploratory data analysis report for heart disease dataset
+- [Dataset](Dataset): Contains the datasets used for training
