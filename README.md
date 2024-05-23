@@ -47,17 +47,24 @@ Then, navigate to http://127.0.0.1:5000/ in your web browser to start using the 
 
 Project Structure
 your-repository-name/
+
 │
 ├── models/                   # Directory for saved model pickle files
+
 │
 ├── templates/                # HTML files for the web interface
+
 │
 ├── static/                   # CSS/JS and other static files
+
 │
 ├── main.py                   # Flask application main file
+
 │
 ├── requirements.txt          # List of dependencies
+
 │
 ├── README.md                 # Project README file
+
 │
 └── .git/                     # Git source repository
