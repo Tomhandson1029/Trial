@@ -34,17 +34,17 @@ To set up the project environment, follow these steps:
 
 **1. Clone the repository**
 
-       git clone https://github.com/ChinmayBitne/Predictive-Analysis-of-Various-Diseases-Risk-Readmission.git
+    git clone https://github.com/ChinmayBitne/Predictive-Analysis-of-Various-Diseases-Risk-Readmission.git
 
-       cd Predictive-Analysis-of-Various-Diseases-Risk-Readmission
+    cd Predictive-Analysis-of-Various-Diseases-Risk-Readmission
 
 **2. Set Up Environment (Optional)**
     
-        python -m venv venv
+    python -m venv venv
     
 **3. Activate Enviroment (Optional)**
 
-       venv\Scripts\activate
+    venv\Scripts\activate
     
 ### Install the requirements 🗃️
 
