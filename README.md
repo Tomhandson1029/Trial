@@ -69,6 +69,6 @@ _The application should now be running on http://localhost:5000._
 - [Models](Models): Directory containing the trained models as pickle files.
 - [templates](templates): HTML templates for the web interface.
 - [static](static): CSS/JS and other static files for the web interface.
-- [Analyzing Data](Analyzing Data.ipynb) & [Model Training](Model Training.ipynb): Jupyter notebooks for data analysis and model training.
-- [Heart Disease Dataset EDA](Heart_Disease_Dataset_EDA.html): Exploratory data analysis report for heart disease dataset
+- [Analyzing Data](Analyzing-Data.ipynb) & [Model Training](Model-Training.ipynb): Jupyter notebooks for data analysis and model training.
+- [Heart Disease Dataset EDA](Heart-EDA.html): Exploratory data analysis report for heart disease dataset
 - [Dataset](Dataset): Contains the datasets used for training
